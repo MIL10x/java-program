@@ -16,7 +16,7 @@ class Array {
         } else if (hr >= 22 && hr < 24) {
             System.out.println("Good night");
         } else {
-            System.out.println("Do it correctly");
+            System.out.println("Do_it_correctly");
         }
 
     }
